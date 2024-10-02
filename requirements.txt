@@ -30,5 +30,3 @@ jsonschema==4.23.0
 urllib3==2.2.3
 watchdog==5.0.3
 wcwidth==0.2.13
-Note: you may need to restart the kernel to use updated packages.
-Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
