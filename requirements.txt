@@ -3,6 +3,9 @@ pandas==2.0.3
 seaborn==0.12.2
 matplotlib==3.7.1
 altair==5.4.1
+pip>=24.2
+Pillow==9.3.0
+setuptools>=65.5.0
 asttokens==2.4.1
 attrs==24.2.0
 babel==2.16.0
